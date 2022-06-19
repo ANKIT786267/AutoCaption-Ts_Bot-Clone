@@ -22,7 +22,7 @@ start_button=InlineKeyboardMarkup(
                   InlineKeyboardButton("📄 BOT STATUS", callback_data = "status_data")
               ], 
               [
-                  InlineKeyboardButton("📫 UPDATES", url = "https://t.me/Ts_bots"), 
+                  InlineKeyboardButton(" 𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ", url = "https://t.me/thewarriorsreal"), 
                   InlineKeyboardButton("📕 ABOUT", callback_data = "about_data")
               ], 
               [
@@ -162,7 +162,7 @@ async def button(bot, cmd: CallbackQuery):
                         InlineKeyboardButton("📄 BOT STATUS", callback_data = "status_data")
                        ], 
                        [
-                        InlineKeyboardButton("📫 UPDATES", url="https://t.me/ts_bots"),
+                        InlineKeyboardButton("𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ", url="https://t.me/thewarriorsreal"),
                         InlineKeyboardButton("📕 ABOUT ME", callback_data="about_data")
                        ],
                        [
