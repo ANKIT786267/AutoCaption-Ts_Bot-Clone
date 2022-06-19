@@ -46,10 +46,7 @@ I am currently working for a channel if you want to use me, Get my source code f
 
 ○ Gɾơυƥ: [𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ](https://t.me/thewarriorsreal)
 
-○ ƈнꪖииҽʅ: [𝐃𝐄𝐅𝐄𝐍𝐃𝐄𝐑 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐋𝐓𝐈𝐕𝐄𝐑𝐒𝐄](https://t.me/DEFENDEROFTHEMULTIVERSE)"""
-
-
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/ts_bots)**
+○ ƈнꪖииҽʅ: [𝐃𝐄𝐅𝐄𝐍𝐃𝐄𝐑 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐋𝐓𝐈𝐕𝐄𝐑𝐒𝐄](https://t.me/DEFENDEROFTHEMULTIVERSE)
 
 """
 
